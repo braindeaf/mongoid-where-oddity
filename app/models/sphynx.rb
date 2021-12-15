@@ -1,0 +1,2 @@
+class Sphynx < Cat
+end
